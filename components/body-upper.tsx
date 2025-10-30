@@ -119,7 +119,7 @@ export default function BodyUpper() {
                 {
                   role: 'Hello World! 👋',
                   company: 'Home',
-                  year: '2020',
+                  year: '2023',
                   desc: 'Wrote my first line of code.',
                 },
               ].map((exp, i) => (
