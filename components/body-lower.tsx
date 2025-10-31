@@ -83,7 +83,7 @@ const BodyLower = () => {
                 <button
                   key={index}
                   onClick={() => setSelectedCert(cert)}
-                  className="w-full text-left rounded-lg sm:rounded-xl border border-neutral-200 dark:border-neutral-700 px-3.5 sm:px-4 py-3 sm:py-3.5 bg-gradient-to-br from-black to-neutral-800 dark:from-neutral-800 dark:to-neutral-900 text-white hover:shadow-lg hover:scale-[1.02] active:scale-[0.98] transition-all duration-200"
+                  className="w-full text-left rounded-lg sm:rounded-xl border border-neutral-200 dark:border-neutral-700 px-3.5 sm:px-4 py-3 sm:py-3.5 bg-gradient-to-br from-black to-neutral-800 dark:from-neutral-800 dark:to-neutral-900 text-white hover:cursor-pointer hover:shadow-lg active:scale-[0.98] transition-all duration-200"
                 >
                   <h3 className="font-semibold text-sm sm:text-base lg:text-lg mb-0.5">{cert.title}</h3>
                   <p className="text-xs sm:text-sm text-neutral-300 dark:text-neutral-400">{cert.issuer}</p>

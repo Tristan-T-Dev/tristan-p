@@ -6,7 +6,7 @@ import { Mail, Calendar, MapPin } from 'lucide-react'
 export default function ProfileHeader() {
   return (
     <div className="relative w-full max-w-6xl mx-auto bg-transparent dark:bg-neutral-900 rounded-2xl dark:border dark:border-neutral-800 px-4 sm:px-6 lg:px-8">
-      <div className="flex flex-col lg:flex-row gap-6 lg:gap-8">
+      <div className="flex flex-col lg:flex-row gap-6 lg:gap-4">
         {/* Left: Profile Image + Info */}
         <div className="flex flex-col sm:flex-row items-center sm:items-start gap-4 sm:gap-6 flex-1">
           {/* Image Container */}
@@ -22,14 +22,14 @@ export default function ProfileHeader() {
 
           {/* Info */}
           <div className="text-center items-center sm:text-left flex-1 mt-4 sm:mt-6 lg:mt-8"> {/* <-- Added margin top */}
-            <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold text-black dark:text-white leading-tight">
+            <h2 className="text-2xl sm:text-2xl lg:text-3xl font-semibold text-black dark:text-white leading-tight">
               Tristan Triñanes
             </h2>
-            <div className="flex items-center justify-center sm:justify-start gap-2 text-neutral-500 dark:text-neutral-400 mt-2">
+            <div className="flex items-center justify-center sm:justify-start gap-1 text-neutral-500 dark:text-neutral-400 mt-2">
               <MapPin size={16} className="flex-shrink-0" />
               <span className="text-sm sm:text-base">Cavite, Philippines</span>
             </div>
-            <p className="text-lg sm:text-xl text-neutral-600 dark:text-neutral-400 mt-3 sm:mt-4 font-medium">
+            <p className="text-md sm:text-lg text-neutral-600 dark:text-neutral-400 mt-3 sm:mt-4">
               Software Developer
             </p>
           </div>

@@ -124,7 +124,7 @@ export default function BodyUpper() {
                 },
               ].map((exp, i) => (
                 <div key={i} className="relative pl-4">
-                  <span className="absolute -left-[21px] top-1.5 w-2.5 h-2.5 rounded-full bg-black dark:bg-white border-2 border-white dark:border-neutral-900"></span>
+                  <span className="absolute -left-[23px] top-1.5 w-3.5 h-3.5 rounded-full bg-black dark:bg-white border-2 border-white dark:border-neutral-900"></span>
                   <div>
                     <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1 mb-1">
                       <h3 className="font-semibold text-sm sm:text-base text-black dark:text-white">{exp.role}</h3>
