@@ -1,0 +1,33 @@
+About Tristan Jay B. Triñanes
+
+I am a passionate Computer Science student at Cavite State University, currently pursuing my Bachelor's degree while actively building my expertise in web development and blockchain technology.
+
+LOCATION & CONTACT
+Based in General Trias, Cavite, Philippines, I'm always eager to connect and collaborate on innovative projects. You can reach me at trinanes.tristanjay@gmail.com or connect with me on LinkedIn.
+
+TECHNICAL EXPERTISE
+I specialize in modern web development with a strong focus on:
+- Frontend Development: React JS, Next JS, Tailwind CSS
+- Backend Development: Node JS, Express JS
+- Database Management: PostgreSQL with Prisma ORM
+- Languages: JavaScript, TypeScript, SQL
+- Development Tools: Git, Postman
+
+EDUCATION & ACHIEVEMENTS
+Currently pursuing my Bachelor of Science in Computer Science at Cavite State University (2023 - Present). I'm also proud to be a Google Career Certification and Department of Trade and Industry Scholar (2025 - Present), which has provided me with access to professional certification programs and advanced learning opportunities.
+
+BLOCKCHAIN & WEB3 JOURNEY
+I've immersed myself in the blockchain ecosystem through intensive bootcamps and competitive hackathons. In July 2025, I completed the MOVERSCAMP bootcamp where I mastered blockchain fundamentals, decentralized application development, and smart contract implementation through hands-on training.
+
+My hackathon journey has been particularly rewarding:
+- BASE BATCH APAC 2025 (May): Collaborated on designing and delivering innovative decentralized applications while mastering workflow management and development processes.
+- METIS NETWORK HYPERHACK 2025 (August): Won Track Three: Infrastructure and Ecosystem Tool and earned a spot in the Spotlight Campaign. I developed tooling components for on-chain infrastructure that enhanced developer efficiency in the Metis ecosystem.
+- AVALANCHE NETWORK HACK2BUILD 2025 (December): Secured 3rd Place in Payments x402 Protocol. Our team built an Ethereum smart contract "traffic light system" and rulebook enabling machines to understand, follow rules, and act on transactions automatically.
+
+WHAT DRIVES ME
+I'm passionate about building decentralized applications and contributing to the Web3 ecosystem. My experience spans from frontend development to blockchain infrastructure, and I'm constantly learning and adapting to new technologies. I thrive in collaborative environments where innovation meets practical problem-solving.
+
+CURRENT FOCUS
+I'm actively seeking opportunities to contribute to meaningful projects in web development and blockchain technology. Whether it's building scalable web applications, developing smart contracts, or creating developer tools for blockchain ecosystems, I'm ready to bring my skills and enthusiasm to the table.
+
+Let's build the future together!

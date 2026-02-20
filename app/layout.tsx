@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import ChatbotToggle from '@/components/ui/chatbot-toggle'
 import Footer from "@/components/footer";
 
 // Google fonts (you can keep these if you still use them elsewhere)
@@ -25,12 +26,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="scroll-smooth scrollbar-hide">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased scrollbar-hide`}
       >
-        {children}
-        <Footer />
+          {children}
+          <ChatbotToggle />
+          <Footer />
       </body>
     </html>
   );

@@ -7,7 +7,7 @@ import BodyLower from '@/components/body-lower'
 
 export default function Home() {
   return (
-    <main className="flex items-center justify-center min-h-screen w-full bg-white text-white mb-">
+    <main className="flex items-center justify-center min-h-screen w-full bg-white text-white">
       <div className="w-full max-w-6xl px-4">
         <Header />
         <BodyUpper />
